@@ -38,7 +38,7 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
 
 
 
-In application I use that imports :
+In application I use that imports :  
   import threading  
   from tkinter import font  
   import tkinter as tk  
