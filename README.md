@@ -39,13 +39,13 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
 
 
 In application I use that imports :
-  import threading
-  from tkinter import font
-  import tkinter as tk
-  from plyer import notification
-  import ttkbootstrap as ttk
-  import time
-  import tkinter
-  from functools import partial
-  from tkinter.scrolledtext import ScrolledText
+  import threading 
+  from tkinter import font 
+  import tkinter as tk 
+  from plyer import notification 
+  import ttkbootstrap as ttk 
+  import time 
+  import tkinter 
+  from functools import partial 
+  from tkinter.scrolledtext import ScrolledText 
   
