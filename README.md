@@ -9,7 +9,7 @@ Once, I had the idea of creating an application that would determine how long it
 ---
 
 ### a) license of my code Copyright © 2025 Marek Semerák.
-All rights reserved. The use, modification, and distribution of this code are not permitted without the express written consent of the author. To obtain a license, please contact me. The author reserves the right to update or change the terms of this license at any time.
+"All rights reserved. The use, modification, and distribution of this code are not permitted without the express written consent of the author. To obtain a license, please contact me. The author reserves the right to update or change the terms of this license at any time."
 
 ---
 
