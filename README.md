@@ -6,7 +6,11 @@ I should spend time in one piece on improving my programming skills.
 I thought about what I will do for my productivity because I was spending much time in one piece of time without breaks.
 Once, I had the idea of creating an application that would determine how long it would take for the program to notify me that I should take a break, and that application is here.
 
+---
+
 ### a) license of my code "Copyright © 2025 Marek Semerák. All rights reserved. The use, modification, and distribution of this code are not permitted without the express written consent of the author. To obtain a license, please contact me."
+
+---
 
 ### b) Third-Party Licenses
 
